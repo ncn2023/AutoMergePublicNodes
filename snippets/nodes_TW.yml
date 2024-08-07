@@ -10,9 +10,9 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15,16|台湾2|@ripaojiedian
+  name: 15|🇹🇼 台湾2|@ripaojiedian
   network: ws
-  port: '30000'
+  port: 30000
   server: 211.23.160.242
   servername: www.78384166.xyz
   skip-cert-verify: false

@@ -1363,14 +1363,14 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 11|10,11|日本2|@ripaojiedian
+  name: 11,16|日本6|@ripaojiedian
   network: ws
   port: '80'
   server: cfcdn3.sanfencdn9.com
   servername: ''
   tls: false
   type: vmess
-  uuid: 823b4a45-8728-425b-abb4-2d9ea30fd61e
+  uuid: 4c27e0c5-de26-43a5-bffd-2d25beb1c1d3
   ws-opts:
     headers:
       Host: oA5FSz9Tjp1.yofnhkfc.xyz
@@ -1471,7 +1471,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 11,16|香港|@ripaojiedian
+  name: 11,16|香港2|@ripaojiedian
   network: ws
   port: '46001'
   server: mmhk01.micloud.buzz
@@ -1485,7 +1485,7 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  name: 11,16|日本3|@ripaojiedian
+  name: 11,16|日本5|@ripaojiedian
   network: ws
   port: '46011'
   server: mmjp11.micloud.buzz
@@ -1499,7 +1499,7 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  name: 11,16|新加坡|@ripaojiedian
+  name: 11|11|新加坡|@ripaojiedian
   network: ws
   port: '46016'
   server: mmsg16.micloud.buzz
@@ -1656,9 +1656,9 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15,16|香港3|@ripaojiedian
+  name: 15|🇭🇰 香港3|@ripaojiedian
   network: ws
-  port: '30000'
+  port: 30000
   server: 143.92.61.87
   servername: www.13181057.xyz
   skip-cert-verify: false
@@ -1693,9 +1693,9 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15,16|香港7|@ripaojiedian
+  name: 15|🇭🇰 香港7|@ripaojiedian
   network: ws
-  port: '443'
+  port: 443
   server: 172.247.118.254
   servername: www.63461637.xyz
   skip-cert-verify: false
@@ -1710,7 +1710,7 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15,16|香港8|@ripaojiedian
+  name: 15,16|香港3|@ripaojiedian
   network: ws
   port: '443'
   server: 103.212.98.234
@@ -1735,9 +1735,9 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15,16|台湾2|@ripaojiedian
+  name: 15|🇹🇼 台湾2|@ripaojiedian
   network: ws
-  port: '30000'
+  port: 30000
   server: 211.23.160.242
   servername: www.78384166.xyz
   skip-cert-verify: false
@@ -1777,9 +1777,9 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15,16|韩国|@ripaojiedian
+  name: 15|🇰🇷 韩国|@ripaojiedian
   network: ws
-  port: '30000'
+  port: 30000
   server: 104.37.215.69
   servername: www.47961225.xyz
   skip-cert-verify: false
@@ -1819,9 +1819,9 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15,16|美国2|@ripaojiedian
+  name: 15|🇺🇸 美国2|@ripaojiedian
   network: ws
-  port: '30000'
+  port: 30000
   server: 142.171.92.149
   servername: www.56940816.xyz
   skip-cert-verify: false
@@ -1836,9 +1836,9 @@ proxies:
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome
-  name: 15,16|美国3|@ripaojiedian
+  name: 15|🇺🇸 美国3|@ripaojiedian
   network: ws
-  port: '49998'
+  port: 49998
   server: 104.233.134.171
   servername: www.32201598.xyz
   skip-cert-verify: false
@@ -1874,3 +1874,59 @@ proxies:
   server: 18.183.186.14
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 16|美国2|@ripaojiedian
+  network: ws
+  port: '46036'
+  server: mmus36.micloud.buzz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
+  ws-opts:
+    headers:
+      Host: ''
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 16|美国3|@ripaojiedian
+  network: ws
+  port: '2052'
+  server: cfcdn1.sanfencdn9.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4c27e0c5-de26-43a5-bffd-2d25beb1c1d3
+  ws-opts:
+    headers:
+      Host: us2jdgv5GC7.fzbqfrse.xyz
+    path: /video/DDC4btA8wc/
+- alterId: 0
+  cipher: auto
+  name: 16|德国|@ripaojiedian
+  network: ws
+  port: '46092'
+  server: mmde92.micloud.buzz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
+  ws-opts:
+    headers:
+      Host: ''
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 16|匈牙利|@ripaojiedian
+  network: ws
+  port: '46082'
+  server: mmhu82.micloud.buzz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
+  ws-opts:
+    headers:
+      Host: ''
+    path: /zh-cn

@@ -37,7 +37,7 @@ proxies:
     path: /video/u4eCZTxW
 - alterId: 0
   cipher: auto
-  name: 11,16|新加坡|@ripaojiedian
+  name: 11|11|新加坡|@ripaojiedian
   network: ws
   port: '46016'
   server: mmsg16.micloud.buzz
