@@ -29,31 +29,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 07287360-e12f-4f94-9c7a-54386c100d8a
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 15|🇯🇵 日本|@ripaojiedian
-  password: efanccyun
-  plugin: obfs
-  plugin-opts:
-    host: 202505121278853-hDhUn5bpB5.download.microsoft.com
-    mode: http
-  port: 8766
-  server: cn01.efan8867801.xyz
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 15|🇯🇵 日本2|@ripaojiedian
-  password: af77ad2f906d
-  plugin: v2ray-plugin
-  plugin-opts:
-    host: jp1v9.8vote.cn
-    mode: websocket
-    mux: true
-    path: /ozasebsz
-    skip-cert-verify: false
-    tls: true
-  port: 20774
-  server: 103.140.136.76
-  tfo: false
-  type: ss
